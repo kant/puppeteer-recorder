@@ -18,3 +18,7 @@ of the two tools documentation pages.
 ## To-Do
 
 ### Demonstrate usage of both Puppeteer and Playwright recorders
+
+### Verify whether Experiments are not behind a flag anymore
+
+https://stackoverflow.com/a/62658194/2715716
